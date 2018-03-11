@@ -1,0 +1,4 @@
+[2018-03-10 18:22:05] main.DEBUG: cache_invalidate:  {"method":"GET","url":"https://tiendasalsaconestilo.com/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"}} []
+[2018-03-11 11:49:43] main.DEBUG: cache_invalidate:  {"method":"GET","url":"https://tiendasalsaconestilo.com/admin123/admin/index/index/key/b0b84abba884f3de5b644da816fc7dbf221970534183b3ea998cc30a546cee1f/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"}} []
+[2018-03-11 11:57:18] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"}} []
+[2018-03-11 13:29:08] main.DEBUG: cache_invalidate:  {"method":"GET","url":"https://tiendasalsaconestilo.com/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"}} []

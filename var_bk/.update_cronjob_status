@@ -1,0 +1,8 @@
+{
+    "readiness_checks": {
+        "error": "<br/>Found non-writable path(s):<br/>/home/salsacon/public_html/.htaccess.sample",
+        "file_permissions_verified": false
+    },
+    "last_timestamp": 1520773382,
+    "current_timestamp": 1520774342
+}
